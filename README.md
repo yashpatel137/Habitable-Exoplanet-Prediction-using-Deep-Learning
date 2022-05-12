@@ -7,3 +7,19 @@ Since the beginning of cosmological expansion, the observable universe is estima
 ## Model Blueprint
 
 ![alt_tag](https://github.com/yashpatel137/Habitable-Exoplanet-Prediction-using-Deep-Learning/blob/main/ModelBlueprint.jpg)
+
+## Platform Used
+
+Platform used for this project is Jupyter Notebook of Anaconda.<br>
+To run ‘keras’ library we need to make new environment in anacondas jupyter notebook as keras is not supported in default environment.
+
+## Libraries Required
+
+Libraries used in this project are:<br>
+•	Pandas
+•	Matplotlib
+•	Seaborn
+•	SKlearn
+•	Numpy
+•	Keras
+•	TensorFlow
