@@ -16,10 +16,10 @@ To run ‘keras’ library we need to make new environment in anacondas jupyter 
 ## Libraries Required
 
 Libraries used in this project are:<br>
-•	Pandas
-•	Matplotlib
-•	Seaborn
-•	SKlearn
-•	Numpy
-•	Keras
-•	TensorFlow
+•	Pandas<br>
+•	Matplotlib<br>
+•	Seaborn<br>
+•	SKlearn<br>
+•	Numpy<br>
+•	Keras<br>
+•	TensorFlow<br>
