@@ -15,7 +15,7 @@ To run ‘keras’ library we need to make new environment in anacondas jupyter 
 
 ## Libraries Required
 
-Libraries used in this project are:<br>
+Libraries used in this project:<br>
 •	Pandas<br>
 •	Matplotlib<br>
 •	Seaborn<br>
